@@ -416,7 +416,7 @@
     height: 4
   - title: Avg Execution Time in Secs (MTD)
     name: Avg Execution Time in Secs (MTD)
-    model: snowflake_usage_metrics
+    model: snowflake_usage_metrics_demo
     explore: query_history
     type: single_value
     fields:
