@@ -31,3 +31,5 @@ explore: query_history {
 }
 
 explore: storage_usage {}
+
+explore: warehouse_metering_history {}
